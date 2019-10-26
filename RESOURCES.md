@@ -6,7 +6,7 @@
 
 --->
 
-  I [capturethemoon](https://github.com/capturethemoon) recommend [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+  I [capture the moon](https://github.com/capturethemoon) recommend [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 I [Nabeel Ahmed Khan](https://github.com/n4beel) recommend [learnux.io to learn about UI/UX techniques](https://learnux.io)
 
@@ -50,7 +50,7 @@ I [Dony Cisneros](https://github.com/donycisneros) recommend [Udacity courses fr
 
 I [anis dabdi](https://github.com/ansdb) recommend [Cool competitive programming website to test your problem solving skills](https://www.codewars.com)
 
- I [capturethemoon](https://github.com/capturethemoon) recommend [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+ I [capture the moon](https://github.com/capturethemoon) recommend [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [Youtube](https://www.youtube.com/watch?v=IsLyduxZ9sc&list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E)
 
